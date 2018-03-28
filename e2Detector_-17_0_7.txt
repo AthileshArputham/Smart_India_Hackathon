@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- generated on 3/27/2018 5:30:21 PM by SUMO gui Version 0.32.0
+<?xml version="1.0" encoding="UTF-8"?>
+
+<configuration xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://sumo.dlr.de/xsd/sumoConfiguration.xsd">
+
+    <input>
+        <net-file value="map1.net.xml"/>
+        <route-files value="router.rou.xml"/>
+        <additional-files value="map_edg.xml"/>
+    </input>
+
+    <time>
+        <begin value="0"/>
+        <end value="500"/>
+        <step-length value="0.9"/>
+    </time>
+
+    <traci_server>
+        <remote-port value="52068"/>
+    </traci_server>
+
+    <gui_only>
+        <tracker-interval value="0.9"/>
+    </gui_only>
+
+</configuration>
+-->
+
+<detector xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://sumo.dlr.de/xsd/det_e2_file.xsd">
+</detector>
+begin="0.00" end="100.80" id="e2Detector_-17_0_7" sampledSeconds="0.00" nVehEntered="0" nVehLeft="2" nVehSeen="0" meanSpeed="-1.00" meanTimeLoss="-1.00" meanOccupancy="0.00" maxOccupancy="0.00" meanMaxJamLengthInVehicles="0.00" meanMaxJamLengthInMeters="0.00" maxJamLengthInVehicles="0" maxJamLengthInMeters="0.00" jamLengthInVehiclesSum="0" jamLengthInMetersSum="0.00" meanHaltingDuration="0.00" maxHaltingDuration="0.00" haltingDurationSum="0.00" meanIntervalHaltingDuration="0.00" maxIntervalHaltingDuration="0.00" intervalHaltingDurationSum="0.00" startedHalts="0.00" meanVehicleNumber="0.00" maxVehicleNumber="0" />
+   <interval begin="100.80" end="201.60" id="e2Detector_-17_0_7" sampledSeconds="61.90" nVehEntered="3" nVehLeft="4" nVehSeen="1" meanSpeed="2.18" meanTimeLoss="52.21" meanOccupancy="3.89" maxOccupancy="10.00" meanMaxJamLengthInVehicles="0.49" meanMaxJamLengthInMeters="1.38" maxJamLengthInVehicles="1" maxJamLengthInMeters="2.87" jamLengthInVehiclesSum="55" jamLengthInMetersSum="154.55" meanHaltingDuration="50.40" maxHaltingDuration="50.40" haltingDurationSum="50.40" meanIntervalHaltingDuration="50.40" maxIntervalHaltingDuration="50.40" intervalHaltingDurationSum="50.40" startedHalts="1.00" meanVehicleNumber="0.64" maxVehicleNumber="1" />
+   <interval begin="201.60" end="302.40" id="e2Detector_-17_0_7" sampledSeconds="9.68" nVehEntered="3" nVehLeft="6" nVehSeen="0" meanSpeed="6.54" meanTimeLoss="-1.00" meanOccupancy="0.75" maxOccupancy="10.00" meanMaxJamLengthInVehicles="0.00" meanMaxJamLengthInMeters="0.00" maxJamLengthInVehicles="0" maxJamLengthInMeters="0.00" jamLengthInVehiclesSum="0" jamLengthInMetersSum="0.00" meanHaltingDuration="0.00" maxHaltingDuration="0.00" haltingDurationSum="0.00" meanIntervalHaltingDuration="0.00" maxIntervalHaltingDuration="0.00" intervalHaltingDurationSum="0.00" startedHalts="0.00" meanVehicleNumber="0.11" maxVehicleNumber="1" />
+   <interval begin="302.40" end="403.20" id="e2Detector_-17_0_7" sampledSeconds="35.90" nVehEntered="1" nVehLeft="4" nVehSeen="-5" meanSpeed="1.53" meanTimeLoss="-6.39" meanOccupancy="2.21" maxOccupancy="10.00" meanMaxJamLengthInVehicles="0.28" meanMaxJamLengthInMeters="0.78" maxJamLengthInVehicles="1" maxJamLengthInMeters="2.84" jamLengthInVehiclesSum="31" jamLengthInMetersSum="87.77" meanHaltingDuration="28.80" maxHaltingDuration="28.80" haltingDurationSum="28.80" meanIntervalHaltingDuration="28.80" maxIntervalHaltingDuration="28.80" intervalHaltingDurationSum="28.80" startedHalts="1.00" meanVehicleNumber="0.37" maxVehicleNumber="1" />
+   <interval begin="403.20" end="450.00" id="e2Detector_-17_0_7" sampledSeconds="0.00" nVehEntered="0" nVehLeft="0" nVehSeen="-9" meanSpeed="-1.00" meanTimeLoss="-0.00" meanOccupancy="0.00" maxOccupancy="0.00" meanMaxJamLengthInVehicles="0.00" meanMaxJamLengthInMeters="0.00" maxJamLengthInVehicles="0" maxJamLengthInMeters="0.00" jamLengthInVehiclesSum="0" jamLengthInMetersSum="0.00" meanHaltingDuration="0.00" maxHaltingDuration="0.00" haltingDurationSum="0.00" meanIntervalHaltingDuration="0.00" maxIntervalHaltingDuration="0.00" intervalHaltingDurationSum="0.00" startedHalts="0.00" meanVehicleNumber="0.00" maxVehicleNumber="0" />
+</detector>

@@ -1,0 +1,66 @@
+<additionals>
+    <e2Detector id="e2Detector_-14_0_1" lane="-14_0" pos="32.71" length="42.70" freq="100.00" file="e2Detector_-14_0_1.txt" cont="0" timeThreshold="1.00" speedThreshold="1.39" jamThreshold="10.00" friendlyPos="0"/>
+    <e2Detector id="e2Detector_-14_1_0" lane="-14_1" pos="31.90" length="42.70" freq="100.00" file="e2Detector_-14_1_0.txt" cont="0" timeThreshold="1.00" speedThreshold="1.39" jamThreshold="10.00" friendlyPos="0"/>
+    <e2Detector id="e2Detector_-17_0_7" lane="-17_0" pos="132.23" length="50.00" freq="100.00" file="e2Detector_-17_0_7.txt" cont="0" timeThreshold="1.00" speedThreshold="1.39" jamThreshold="10.00" friendlyPos="0"/>
+    <e2Detector id="e2Detector_-17_1_6" lane="-17_1" pos="132.55" length="50.00" freq="100.00" file="e2Detector_-17_1_6.txt" cont="0" timeThreshold="1.00" speedThreshold="1.39" jamThreshold="10.00" friendlyPos="0"/>
+    <e2Detector id="e2Detector_-18_0_11" lane="-18_0" pos="135.24" length="50.00" freq="100.00" file="e2Detector_-18_0_11.txt" cont="0" timeThreshold="1.00" speedThreshold="1.39" jamThreshold="10.00" friendlyPos="0"/>
+    <e2Detector id="e2Detector_-18_1_10" lane="-18_1" pos="134.70" length="50.00" freq="100.00" file="e2Detector_-18_1_10.txt" cont="0" timeThreshold="1.00" speedThreshold="1.39" jamThreshold="10.00" friendlyPos="0"/>
+    <e2Detector id="e2Detector_15_0_4" lane="15_0" pos="32.58" length="50.00" freq="100.00" file="e2Detector_15_0_4.txt" cont="0" timeThreshold="1.00" speedThreshold="1.39" jamThreshold="10.00" friendlyPos="0"/>
+    <e2Detector id="e2Detector_15_1_5" lane="15_1" pos="33.92" length="50.00" freq="100.00" file="e2Detector_15_1_5.txt" cont="0" timeThreshold="1.00" speedThreshold="1.39" jamThreshold="10.00" friendlyPos="0"/>
+    <e2Detector id="e2Detector_16_0_12" lane="16_0" pos="31.69" length="50.00" freq="100.00" file="e2Detector_16_0_12.txt" cont="0" timeThreshold="1.00" speedThreshold="1.39" jamThreshold="10.00" friendlyPos="0"/>
+    <e2Detector id="e2Detector_16_1_13" lane="16_1" pos="32.39" length="50.00" freq="100.00" file="e2Detector_16_1_13.txt" cont="0" timeThreshold="1.00" speedThreshold="1.39" jamThreshold="10.00" friendlyPos="0"/>
+    <e2Detector id="e2Detector_17_0_2" lane="17_0" pos="132.02" length="46.35" freq="100.00" file="e2Detector_17_0_2.txt" cont="0" timeThreshold="1.00" speedThreshold="1.39" jamThreshold="10.00" friendlyPos="0"/>
+    <e2Detector id="e2Detector_17_1_3" lane="17_1" pos="132.18" length="46.35" freq="100.00" file="e2Detector_17_1_3.txt" cont="0" timeThreshold="1.00" speedThreshold="1.39" jamThreshold="10.00" friendlyPos="0"/>
+    <e2Detector id="e2Detector_18_0_9" lane="18_0" pos="132.85" length="50.00" freq="100.00" file="e2Detector_18_0_9.txt" cont="0" timeThreshold="1.00" speedThreshold="1.39" jamThreshold="10.00" friendlyPos="0"/>
+    <e2Detector id="e2Detector_18_1_8" lane="18_1" pos="131.81" length="50.00" freq="100.00" file="e2Detector_18_1_8.txt" cont="0" timeThreshold="1.00" speedThreshold="1.39" jamThreshold="10.00" friendlyPos="0"/>
+
+    <e2Detector id="e2Detector_-12_0_2" lane="-12_0" pos="130.45" length="50.00" freq="100.00" file="e2Detector_-12_0_2.txt" cont="0" timeThreshold="1.00" speedThreshold="1.39" jamThreshold="10.00" friendlyPos="0"/>
+    <e2Detector id="e2Detector_-12_1_3" lane="-12_1" pos="130.92" length="50.00" freq="100.00" file="e2Detector_-12_1_3.txt" cont="0" timeThreshold="1.00" speedThreshold="1.39" jamThreshold="10.00" friendlyPos="0"/>
+    <e2Detector id="e2Detector_-13_0_13" lane="-13_0" pos="131.49" length="50.00" freq="100.00" file="e2Detector_-13_0_13.txt" cont="0" timeThreshold="1.00" speedThreshold="1.39" jamThreshold="10.00" friendlyPos="0"/>
+    <e2Detector id="e2Detector_-13_1_14" lane="-13_1" pos="131.35" length="50.00" freq="100.00" file="e2Detector_-13_1_14.txt" cont="0" timeThreshold="1.00" speedThreshold="1.39" jamThreshold="10.00" friendlyPos="0"/>
+    <e2Detector id="e2Detector_-15_0_9" lane="-15_0" pos="40.15" length="43.75" freq="100.00" file="e2Detector_-15_0_9.txt" cont="0" timeThreshold="1.00" speedThreshold="1.39" jamThreshold="10.00" friendlyPos="0"/>
+    <e2Detector id="e2Detector_-15_1_8" lane="-15_1" pos="39.04" length="44.86" freq="100.00" file="e2Detector_-15_1_8.txt" cont="0" timeThreshold="1.00" speedThreshold="1.39" jamThreshold="10.00" friendlyPos="0"/>
+    <e2Detector id="e2Detector_-16_0_18" lane="-16_0" pos="41.17" length="44.23" freq="100.00" file="e2Detector_-16_0_18.txt" cont="0" timeThreshold="1.00" speedThreshold="1.39" jamThreshold="10.00" friendlyPos="0"/>
+    <e2Detector id="e2Detector_-16_1_17" lane="-16_1" pos="38.22" length="47.18" freq="100.00" file="e2Detector_-16_1_17.txt" cont="0" timeThreshold="1.00" speedThreshold="1.39" jamThreshold="10.00" friendlyPos="0"/>
+    <e2Detector id="e2Detector_-8_0_1" lane="-8_0" pos="238.57" length="48.41" freq="100.00" file="e2Detector_-8_0_1.txt" cont="0" timeThreshold="1.00" speedThreshold="1.39" jamThreshold="10.00" friendlyPos="0"/>
+    <e2Detector id="e2Detector_-8_1_0" lane="-8_1" pos="237.80" length="48.41" freq="100.00" file="e2Detector_-8_1_0.txt" cont="0" timeThreshold="1.00" speedThreshold="1.39" jamThreshold="10.00" friendlyPos="0"/>
+    <e2Detector id="e2Detector_-9_0_12" lane="-9_0" pos="230.10" length="50.00" freq="100.00" file="e2Detector_-9_0_12.txt" cont="0" timeThreshold="1.00" speedThreshold="1.39" jamThreshold="10.00" friendlyPos="0"/>
+    <e2Detector id="e2Detector_11_0_15" lane="11_0" pos="134.32" length="50.00" freq="100.00" file="e2Detector_11_0_15.txt" cont="0" timeThreshold="1.00" speedThreshold="1.39" jamThreshold="10.00" friendlyPos="0"/>
+    <e2Detector id="e2Detector_11_1_16" lane="11_1" pos="134.49" length="50.00" freq="100.00" file="e2Detector_11_1_16.txt" cont="0" timeThreshold="1.00" speedThreshold="1.39" jamThreshold="10.00" friendlyPos="0"/>
+    <e2Detector id="e2Detector_12_0_6" lane="12_0" pos="130.57" length="50.00" freq="100.00" file="e2Detector_12_0_6.txt" cont="0" timeThreshold="1.00" speedThreshold="1.39" jamThreshold="10.00" friendlyPos="0"/>
+    <e2Detector id="e2Detector_12_1_7" lane="12_1" pos="130.57" length="50.00" freq="100.00" file="e2Detector_12_1_7.txt" cont="0" timeThreshold="1.00" speedThreshold="1.39" jamThreshold="10.00" friendlyPos="0"/>
+    <e2Detector id="e2Detector_13_0_11" lane="13_0" pos="133.35" length="50.00" freq="100.00" file="e2Detector_13_0_11.txt" cont="0" timeThreshold="1.00" speedThreshold="1.39" jamThreshold="10.00" friendlyPos="0"/>
+    <e2Detector id="e2Detector_13_1_10" lane="13_1" pos="132.25" length="50.00" freq="100.00" file="e2Detector_13_1_10.txt" cont="0" timeThreshold="1.00" speedThreshold="1.39" jamThreshold="10.00" friendlyPos="0"/>
+    <e2Detector id="e2Detector_14_0_5" lane="14_0" pos="35.79" length="49.61" freq="100.00" file="e2Detector_14_0_5.txt" cont="0" timeThreshold="1.00" speedThreshold="1.39" jamThreshold="10.00" friendlyPos="0"/>
+    <e2Detector id="e2Detector_14_1_4" lane="14_1" pos="34.40" length="50.00" freq="100.00" file="e2Detector_14_1_4.txt" cont="0" timeThreshold="1.00" speedThreshold="1.39" jamThreshold="10.00" friendlyPos="0"/>
+
+    <e2Detector id="e2Detector_-10_0_12" lane="-10_0" pos="46.82" length="50.00" freq="100.00" file="e2Detector_-10_0_12.txt" cont="0" timeThreshold="1.00" speedThreshold="1.39" jamThreshold="10.00" friendlyPos="0"/>
+    <e2Detector id="e2Detector_-10_1_11" lane="-10_1" pos="44.13" length="50.00" freq="100.00" file="e2Detector_-10_1_11.txt" cont="0" timeThreshold="1.00" speedThreshold="1.39" jamThreshold="10.00" friendlyPos="0"/>
+    <e2Detector id="e2Detector_-7_0_2" lane="-7_0" pos="138.75" length="48.44" freq="100.00" file="e2Detector_-7_0_2.txt" cont="0" timeThreshold="1.00" speedThreshold="1.39" jamThreshold="10.00" friendlyPos="0"/>
+    <e2Detector id="e2Detector_3_0_1" lane="3_0" pos="137.70" length="47.99" freq="100.00" file="e2Detector_3_0_1.txt" cont="0" timeThreshold="1.00" speedThreshold="1.39" jamThreshold="10.00" friendlyPos="0"/>
+    <e2Detector id="e2Detector_3_1_0" lane="3_1" pos="137.88" length="47.99" freq="100.00" file="e2Detector_3_1_0.txt" cont="0" timeThreshold="1.00" speedThreshold="1.39" jamThreshold="10.00" friendlyPos="0"/>
+    <e2Detector id="e2Detector_4_0_8" lane="4_0" pos="200.42" length="50.00" freq="100.00" file="e2Detector_4_0_8.txt" cont="0" timeThreshold="1.00" speedThreshold="1.39" jamThreshold="10.00" friendlyPos="0"/>
+    <e2Detector id="e2Detector_5_0_6" lane="5_0" pos="213.78" length="47.02" freq="100.00" file="e2Detector_5_0_6.txt" cont="0" timeThreshold="1.00" speedThreshold="1.39" jamThreshold="10.00" friendlyPos="0"/>
+    <e2Detector id="e2Detector_6_0_9" lane="6_0" pos="122.64" length="50.00" freq="100.00" file="e2Detector_6_0_9.txt" cont="0" timeThreshold="1.00" speedThreshold="1.39" jamThreshold="10.00" friendlyPos="0"/>
+    <e2Detector id="e2Detector_6_1_10" lane="6_1" pos="123.27" length="50.00" freq="100.00" file="e2Detector_6_1_10.txt" cont="0" timeThreshold="1.00" speedThreshold="1.39" jamThreshold="10.00" friendlyPos="0"/>
+    <e2Detector id="e2Detector_7_0_5" lane="7_0" pos="139.74" length="48.44" freq="100.00" file="e2Detector_7_0_5.txt" cont="0" timeThreshold="1.00" speedThreshold="1.39" jamThreshold="10.00" friendlyPos="0"/>
+    <e2Detector id="e2Detector_8_0_4" lane="8_0" pos="235.08" length="48.41" freq="100.00" file="e2Detector_8_0_4.txt" cont="0" timeThreshold="1.00" speedThreshold="1.39" jamThreshold="10.00" friendlyPos="0"/>
+    <e2Detector id="e2Detector_8_1_3" lane="8_1" pos="232.02" length="48.41" freq="100.00" file="e2Detector_8_1_3.txt" cont="0" timeThreshold="1.00" speedThreshold="1.39" jamThreshold="10.00" friendlyPos="0"/>
+    <e2Detector id="e2Detector_9_0_7" lane="9_0" pos="233.65" length="47.87" freq="100.00" file="e2Detector_9_0_7.txt" cont="0" timeThreshold="1.00" speedThreshold="1.39" jamThreshold="10.00" friendlyPos="0"/>
+
+    <e2Detector id="e2Detector_-1_0_3" lane="-1_0" pos="139.46" length="48.48" freq="100.00" file="e2Detector_-1_0_3.txt" cont="0" timeThreshold="1.00" speedThreshold="1.39" jamThreshold="10.00" friendlyPos="0"/>
+    <e2Detector id="e2Detector_-1_1_2" lane="-1_1" pos="137.38" length="48.48" freq="100.00" file="e2Detector_-1_1_2.txt" cont="0" timeThreshold="1.00" speedThreshold="1.39" jamThreshold="10.00" friendlyPos="0"/>
+    <e2Detector id="e2Detector_-2_0_7" lane="-2_0" pos="124.12" length="50.00" freq="100.00" file="e2Detector_-2_0_7.txt" cont="0" timeThreshold="1.00" speedThreshold="1.39" jamThreshold="10.00" friendlyPos="0"/>
+    <e2Detector id="e2Detector_-2_1_6" lane="-2_1" pos="123.76" length="50.00" freq="100.00" file="e2Detector_-2_1_6.txt" cont="0" timeThreshold="1.00" speedThreshold="1.39" jamThreshold="10.00" friendlyPos="0"/>
+    <e2Detector id="e2Detector_-3_0_1" lane="-3_0" pos="138.24" length="47.99" freq="100.00" file="e2Detector_-3_0_1.txt" cont="0" timeThreshold="1.00" speedThreshold="1.39" jamThreshold="10.00" friendlyPos="0"/>
+    <e2Detector id="e2Detector_-3_1_0" lane="-3_1" pos="138.01" length="47.99" freq="100.00" file="e2Detector_-3_1_0.txt" cont="0" timeThreshold="1.00" speedThreshold="1.39" jamThreshold="10.00" friendlyPos="0"/>
+    <e2Detector id="e2Detector_-4_0_8" lane="-4_0" pos="202.81" length="50.00" freq="100.00" file="e2Detector_-4_0_8.txt" cont="0" timeThreshold="1.00" speedThreshold="1.39" jamThreshold="10.00" friendlyPos="0"/>
+    <e2Detector id="e2Detector_-5_0_9" lane="-5_0" pos="221.15" length="44.83" freq="100.00" file="e2Detector_-5_0_9.txt" cont="0" timeThreshold="1.00" speedThreshold="1.39" jamThreshold="10.00" friendlyPos="0"/>
+    <e2Detector id="e2Detector_-6_0_13" lane="-6_0" pos="125.51" length="49.20" freq="100.00" file="e2Detector_-6_0_13.txt" cont="0" timeThreshold="1.00" speedThreshold="1.39" jamThreshold="10.00" friendlyPos="0"/>
+    <e2Detector id="e2Detector_-6_1_12" lane="-6_1" pos="123.97" length="50.00" freq="100.00" file="e2Detector_-6_1_12.txt" cont="0" timeThreshold="1.00" speedThreshold="1.39" jamThreshold="10.00" friendlyPos="0"/>
+    <e2Detector id="e2Detector_1_0_4" lane="1_0" pos="142.33" length="50.00" freq="100.00" file="e2Detector_1_0_4.txt" cont="0" timeThreshold="1.00" speedThreshold="1.39" jamThreshold="10.00" friendlyPos="0"/>
+    <e2Detector id="e2Detector_1_1_5" lane="1_1" pos="142.21" length="50.00" freq="100.00" file="e2Detector_1_1_5.txt" cont="0" timeThreshold="1.00" speedThreshold="1.39" jamThreshold="10.00" friendlyPos="0"/>
+    <e2Detector id="e2Detector_2_0_10" lane="2_0" pos="126.66" length="48.05" freq="100.00" file="e2Detector_2_0_10.txt" cont="0" timeThreshold="1.00" speedThreshold="1.39" jamThreshold="10.00" friendlyPos="0"/>
+    <e2Detector id="e2Detector_2_1_11" lane="2_1" pos="126.77" length="47.94" freq="100.00" file="e2Detector_2_1_11.txt" cont="0" timeThreshold="1.00" speedThreshold="1.39" jamThreshold="10.00" friendlyPos="0"/>
+</additionals>
+
